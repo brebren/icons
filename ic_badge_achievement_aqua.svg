@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_badge_achievement_aqua</title>
+    <g id="ICONS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1150.000000, -2350.000000)" id="ic_badge_achievement_aqua">
+            <g transform="translate(1150.000000, 2350.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.01" x="0" y="0" width="68" height="68" rx="2"></rect>
+                <g id="Group-112" transform="translate(3.000000, 3.000000)">
+                    <circle id="Oval" fill="#0091B3" cx="31" cy="31" r="31"></circle>
+                    <g id="ic_recognition" transform="translate(7.000000, 7.000000)">
+                        <rect id="Rectangle" fill="#EBEBEB" opacity="0.01" x="0" y="0" width="48" height="48"></rect>
+                        <path d="M20.1961524,24 L10.1961524,24 L10.1961524,44.9193752 L13.9467623,41.9188872 C14.311981,41.6267123 14.7540667,41.4806248 15.1961524,41.4806248 C15.6382381,41.4806248 16.0803239,41.6267123 16.4455425,41.9188872 L20.1961524,44.9193752 L20.1961524,24 Z" id="Rectangle" stroke="#0091B3" stroke-width="2" fill="#FFFFFF" transform="translate(15.196152, 35.000000) rotate(25.000000) translate(-15.196152, -35.000000) "></path>
+                        <path d="M37.1961524,24 L27.1961524,24 L27.1961524,44.9193752 L30.9467623,41.9188872 C31.311981,41.6267123 31.7540667,41.4806248 32.1961524,41.4806248 C32.6382381,41.4806248 33.0803239,41.6267123 33.4455425,41.9188872 L37.1961524,44.9193752 L37.1961524,24 Z" id="Rectangle" stroke="#0091B3" stroke-width="2" fill="#FFFFFF" transform="translate(32.196152, 35.000000) scale(-1, 1) rotate(25.000000) translate(-32.196152, -35.000000) "></path>
+                        <path d="M24,3 C16.2805602,3 10,9.28095947 10,17.0005696 C10,24.7184709 16.2811297,31 24,31 C26.9382485,31 29.739992,30.0892711 32.0890641,28.4183962 C33.4841659,27.4277075 34.6913333,26.1864827 35.644028,24.7635604 C37.1719841,22.4789749 38,19.7999524 38,17.0005696 C38,9.2813726 31.7187137,3 24,3 Z" id="Path" stroke="#0091B3" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M24,9.25955146 L21.7251393,13.8689228 L16.638396,14.6080699 L20.319198,18.1959651 L19.4502785,23.2621544 L24,20.8702243 L28.5497215,23.2621544 L27.680802,18.1959651 L31.361604,14.6080699 L26.2748607,13.8689228 L24,9.25955146 Z" id="Star" stroke="#0091B3" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
